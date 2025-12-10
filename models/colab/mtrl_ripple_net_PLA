@@ -1,5 +1,0 @@
-if 'google.colab' in str(get_ipython()):
-  !pip install git+https://github.com/FullControlXYZ/fullcontrol --quiet
-import fullcontrol as fc
-from google.colab import files
-
